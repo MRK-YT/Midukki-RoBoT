@@ -15,7 +15,7 @@
 
 <h1>Repo Status</h1>
 
-[![Midukki-RoBoT](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Midukki-RoBoT&align="center")](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
+[![Midukki-RoBoT](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Midukki-RoBoT)](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
 
 
 
