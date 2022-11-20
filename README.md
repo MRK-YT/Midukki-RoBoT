@@ -14,8 +14,6 @@
 [![Sparkline](https://stars.medv.io/PR0FESS0R-99/Midukki-RoBoT.svg)](https://stars.medv.io/PR0FESS0R-99/Midukki-RoBoT)
 
 <h1>Repo Status</h1>
-<img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&repo=Midukki-RoBoT&cc=000&tc=00ff00&ic=fff000&bc=fff">
-
 [![Midukki-RoBoT](https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&repo=Midukki-RoBoT)](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
