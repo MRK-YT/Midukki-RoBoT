@@ -2,9 +2,8 @@
 <img style="width:100px; height:100px;" src="Assets/Midukki-RoBoT.png" alt="Midukki RoBoT Logo">
 </p>
 
-<h1 align="center">
-<a href="https://telegram.dog/Midukki_Robot">Midukki-RoBoT</a>
-</h1>
+
+<h1><a href="https://telegram.dog/Midukki_Robot">Midukki-RoBoT</a></h1>
 
 [![Stars](https://img.shields.io/github/stars/PR0FESS0R-99/Midukki-RoBoT?style=flat-square&color=yellow)](https://github.com/PR0FESS0R-99/Midukki-RoBoT/stargazers)
 [![Forks](https://img.shields.io/github/forks/PR0FESS0R-99/Midukki-RoBoT?style=flat-square&color=orange)](https://github.com/PR0FESS0R-99/Midukki-RoBoT/fork)
