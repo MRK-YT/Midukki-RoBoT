@@ -15,7 +15,8 @@
 
 <h1>Repo Status</h1>
 
-[![Midukki-RoBoT](https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&repo=Midukki-RoBoT)](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
+
+[![Midukki-RoBoT](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Midukki-RoBoT)](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
 
