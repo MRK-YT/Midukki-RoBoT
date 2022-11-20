@@ -13,10 +13,5 @@
 [![Contributors](https://img.shields.io/github/contributors/PR0FESS0R-99/Midukki-RoBoT?style=flat-square&color=green)](https://github.com/PR0FESS0R-99/Midukki-RoBoT/graphs/contributors)
 [![Sparkline](https://stars.medv.io/PR0FESS0R-99/Midukki-RoBoT.svg)](https://stars.medv.io/PR0FESS0R-99/Midukki-RoBoT)
 
-<h1>Repo Status</h1>
-
-
-[![Midukki-RoBoT](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Midukki-RoBoT)](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
-
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
 
