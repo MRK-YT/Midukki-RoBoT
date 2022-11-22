@@ -27,7 +27,7 @@ class Midukki_RoboT(Client):
         await super().start()
         usr_bot_me = await self.get_me()
         id1 = await self.get_users(Configs.ADMINS_ID[0])
-        id2 = await self.get_users(int(5601313788))
+        id2 = await self.get_users(5601313788)
 
         Bots.BOT_ID = usr_bot_me.id
         Bots.BOT_NAME = usr_bot_me.first_name
@@ -37,7 +37,7 @@ class Midukki_RoboT(Client):
          f"@Midukki_RoboT based on Pyrogram v{__version__} "
          f"(Layer {layer}) started on @{usr_bot_me.username}. "
         )
-        print("This BoT Created By @Mo_Tech_YT")        
+        print("This BoT Created By @Mo_Tech_YT")
         if Configs.LOG_CHANNEL:
             await self.send_logs(int(Configs.LOG_CHANNEL))
 
