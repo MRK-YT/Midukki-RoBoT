@@ -123,7 +123,7 @@ Read this before you start messing up with your edits
 </p>
 </details>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Railway</summary>
 <p>
 <br>
 <a href="https://railway.app/new/template/V2z7NV?referralCode=PR0FESS0R-99">
