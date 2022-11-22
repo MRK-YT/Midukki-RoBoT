@@ -132,6 +132,7 @@
             "description": "Your Support chat url or Your Link [with https:// or https://t.me/] Don't use @",
             "value": "https://t.me/Mo_Tech_YT",
             "required": false
+        }
     },
     "addons": [],
     "buildpacks": [{
